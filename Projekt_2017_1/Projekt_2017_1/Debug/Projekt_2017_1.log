@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\studia\pp\projekty\projekt_2017_1\projekt_2017_1\main.cpp(49): warning C4101: 'zapisany': unreferenced local variable
+  Projekt_2017_1.vcxproj -> C:\Studia\PP\Projekty\Projekt_2017_1\Debug\Projekt_2017_1.exe
+  Projekt_2017_1.vcxproj -> C:\Studia\PP\Projekty\Projekt_2017_1\Debug\Projekt_2017_1.pdb (Full PDB)
